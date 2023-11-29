@@ -11,7 +11,7 @@ namespace _12H_Sınav
     {
         public SqlConnection baglanti()
         {
-            SqlConnection bag = new SqlConnection("Data Source=DESKTOP-S8V0CDH\\SQLEXPRESS;Initial Catalog=stok_takip_db;Integrated Security=True");
+            SqlConnection bag = new SqlConnection("Data Source=DESKTOP-AF7QEIJ\\SQLEXPRESS;Initial Catalog=stok_takip_db;Integrated Security=True");
             bag.Open();
             return bag;
         }

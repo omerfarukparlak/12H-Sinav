@@ -16,7 +16,7 @@ namespace _12H_Sınav
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMusteriİslemleri());
+            Application.Run(new frmUrunİslemleri());
         }
     }
 }

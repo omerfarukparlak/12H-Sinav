@@ -16,5 +16,10 @@ namespace _12H_Sınav
         {
             InitializeComponent();
         }
+
+        private void frmSatisDetaylari_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
